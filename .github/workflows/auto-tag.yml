@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 20  # ดึง commit และ tag ทั้งหมด
+          fetch-depth: 0  # ดึง commit และ tag ทั้งหมด
 
       - name: Get latest tag
         id: get_tag
