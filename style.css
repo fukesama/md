@@ -198,3 +198,9 @@ blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
 }
+table {
+    border-collapse: collapse;
+}
+table td , th  {
+    border:1px solid #FFF;
+}
