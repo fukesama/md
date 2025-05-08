@@ -155,6 +155,9 @@ h6,
 .retro-h6 {
   font-size: .88rem;
 }
+h1,h2,h3,h4,h6 {
+  border-bottom: 1px solid #FFF;
+}
 
 small,
 .retro-small {
