@@ -206,6 +206,7 @@ table {
 }
 table td , th  {
     border:1px solid #FFF;
+    padding: 5px;
 }
 hr {
   margin-top: 10px;
